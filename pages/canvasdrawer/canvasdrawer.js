@@ -4,7 +4,7 @@ Page({
     shareImage: ''
   },
   onLoad() {
-    // this.eventDraw()
+    this.eventDraw()
   },
   eventDraw() {
     wx.showLoading({
