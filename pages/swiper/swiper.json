@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "swiper",
+  "usingComponents": {
+    "c-swiper": "/components/swiper/swiper"
+  }
+}

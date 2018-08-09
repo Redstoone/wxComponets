@@ -1,1 +1,2 @@
 <button bind:tap="gotoCanvasDrawer">canvas drawer</button>
+<button bind:tap="gotoSwiper">swiper</button>
